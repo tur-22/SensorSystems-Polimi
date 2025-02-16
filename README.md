@@ -1,2 +1,2 @@
 # SensorSystems-Polimi
-Projects developed for an STM-32 microcontroller during attendance of the Sensor Systems course at Politecnico di Milano.
+Varied small projects developed for an STM-32 microcontroller exploring its communication with peripherals through the use of different communication protocols.
